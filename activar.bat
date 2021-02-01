@@ -1,4 +1,4 @@
 @ECHO off
 echo "Activando python"
-.\venv\Scripts\activate.bat
-
+..\venv\Scripts\activate.bat
+PAUSE
